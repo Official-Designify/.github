@@ -45,9 +45,9 @@ For legal matters or requests regarding your data, please contact us at: [legal@
 
 ## Documentation
 
-- **Terms of Service**: [Read our TOS](#)
-- **Privacy Policy**: [Read our Privacy Policy](#)
-- **End-User License Agreement**: [Read our EULA](#)
+- **Terms of Service**: [Read our TOS]([#](https://github.com/Official-Designify/.github/blob/main/profile/TERMS.md))
+- **Privacy Policy**: [Read our Privacy Policy](https://github.com/Official-Designify/.github/blob/main/profile/PRIVACY%20POLICY.md)
+- **End-User License Agreement**: [Read our EULA](https://github.com/Official-Designify/.github/blob/main/profile/EULA.md)
 
 ## Licensing
 
