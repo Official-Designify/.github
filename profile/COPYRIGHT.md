@@ -1,6 +1,6 @@
 # Copyright Notice
 
-© 2024 Designify. All rights reserved.
+© 2025 Designify. All rights reserved.
 
 This bot, including its codebase, design, and all associated assets such as logos, banners, and other branding materials, is the intellectual property of Designify and its owner(s). Redistribution, reproduction, or unauthorized use of the bot, its components, or branding assets is strictly prohibited without prior written permission from **Designify**.
 
