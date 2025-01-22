@@ -1,6 +1,6 @@
 # **Terms of Service**
 
-**Last Updated:** 12/24/2024
+**Last Updated:** 01/01/2025
 
 Welcome to **Designify**, a design server management tool developed by **ILE Customs**. By accessing and using this bot, you agree to be bound by the following Terms of Service. If you do not agree with these terms, do not use the bot. We reserve the right to modify these terms at any time, and changes will be communicated through our official channels.
 
