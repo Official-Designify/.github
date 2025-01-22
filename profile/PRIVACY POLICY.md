@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date**: 12/24/2024
+**Effective Date**: 01/01/2025
 
 Designify, a bot for server management in Discord, is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your data when you use the Designify bot. By using our bot, you agree to the terms outlined in this policy.
 
