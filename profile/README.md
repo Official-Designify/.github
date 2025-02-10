@@ -1,4 +1,4 @@
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1s2za.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1s2za.svg)](https://status.designify.bot/)
 
 # Designify - Premium Discord Bot
 
