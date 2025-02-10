@@ -1,3 +1,5 @@
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1s2za.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 # Designify - Premium Discord Bot
 
 Welcome to **Designify**, a premium Discord bot designed to help manage and streamline server operations for design-related communities. With features for order management, staff team management, giveaways, verification, and more, Designify enhances the user experience by integrating Discord and Roblox seamlessly.
